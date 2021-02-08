@@ -5,6 +5,7 @@ To provide feedback, please follow the guidance in this document. Please note th
 
 Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
 - [Creating issues](#creating-issues)
+- [Recommended setup for contributing](#recommended-setup-for-contributing)
 - [Documentation styleguide](#documentation-styleguide)
 - [Commit messages](#commit-messages)
 - [Pull requests](#pull-requests)
@@ -91,11 +92,11 @@ Be prepared to address feedback on your pull request and iterate if necessary.
 [new-issue]: https://github.com/Microsoft/api-guidelines/issues/new
 [issue-search]: https://github.com/Microsoft/api-guidelines/issues
 [white-house-api-guidelines]: https://github.com/WhiteHouse/api-standards/blob/master/README.md
-[topic-branch]: http://www.git-scm.com/book/en/v2/Git-Branching-Branching-Workflows#Topic-Branches
+[topic-branch]: https://www.git-scm.com/book/en/v2/Git-Branching-Branching-Workflows#Topic-Branches
 [gfm]: https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown
 [github-flow-guide]: https://guides.github.com/introduction/flow/
 [atom-beautify]: https://atom.io/packages/atom-beautify
-[atom]: http://atom.io
+[atom]: https://atom.io/
 [markdown-toc]: https://atom.io/packages/markdown-toc
 [vscode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
